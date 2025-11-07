@@ -1,6 +1,6 @@
 # Object-Oriented Programming Project Collection
 
-This repository is a collection of various projects I developed throughout my journey of learning and practicing OOP principles during my college studies using JAVA language. The purpose of this repository is to document progress, strengthen programming fundamentals, and demonstrate how OOP concepts are applied in real-world problem-solving.
+This repository is a collection of various projects I developed throughout my journey of learning and practicing OOP principles during my college studies using **Java** language. The purpose of this repository is to document progress, strengthen programming fundamentals, and demonstrate how OOP concepts are applied in real-world problem-solving.
 
 ---
 
